@@ -1,0 +1,4386 @@
+{
+    "body": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:8080",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:13.224590Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "\u001b[33mPress CTRL+C to quit\u001b[0m",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:13.226003Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.194251Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.194546Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.207100Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.207270Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.219932Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.220089Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.231152Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.231285Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.242724Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.242856Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.253322Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.253440Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.264280Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.264404Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.273979Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.274110Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.283505Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.283608Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.293919Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.294019Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.303281Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.303365Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.313481Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.313585Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.323209Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.323310Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.335069Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.335177Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.344293Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.344382Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.354135Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.354241Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.364028Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.364131Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.373738Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.373843Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.383929Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.384033Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.393042Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.393150Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.402297Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.402396Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.411265Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.411354Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.420669Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.420761Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.430443Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.430544Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.440604Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.440708Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.450506Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.450595Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.460500Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.460599Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.470414Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.470522Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.480606Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.480711Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.489769Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.489854Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.499876Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.499977Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.509715Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.509820Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.520429Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.520537Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.530101Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.530195Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.541316Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.541418Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.551767Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.551873Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.562896Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.563011Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.574012Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.574117Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.583948Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.584044Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.593455Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.593553Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.602633Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.602739Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.613986Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.614092Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.623506Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.623608Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.633007Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.633118Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.643149Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.643256Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.654356Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.654489Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.671549Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.671661Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.682621Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.682727Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.693725Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.693831Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.703153Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.703254Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.712659Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.712763Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.722663Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.722768Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.734219Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.734321Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.743956Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.744047Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.753573Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.753670Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.763492Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.763596Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.774158Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.774264Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.783429Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.783518Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.793679Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.793782Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.803814Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.803917Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.813583Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.813680Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.822658Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.822738Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.832284Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.832435Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.842499Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.842603Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.854378Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.854486Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.863876Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.863962Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.873279Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.873381Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.882367Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.882467Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.891622Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.891725Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.901193Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.901298Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.910513Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.910616Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.920580Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.920691Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.929771Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.929865Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.939554Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.939657Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.950130Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.950239Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.960058Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.960164Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.969631Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.969736Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.980061Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.980175Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.990708Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:18] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:18.990824Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.005058Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.005164Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.017504Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.017618Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.027458Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.027569Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.037017Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.037111Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.047283Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.047396Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.058183Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.058293Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.068810Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.068930Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.079370Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.079478Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.088425Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.088529Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.098494Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.098602Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.108658Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.108766Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.120847Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.120956Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.134333Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.134438Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.148854Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.148962Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.160844Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.160954Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.170283Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.170375Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.181186Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.181298Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.191501Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.191613Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.201785Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.201900Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.214428Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.214562Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.224073Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.224163Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.233594Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.233746Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.243006Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.243109Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.253834Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.253957Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.263749Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.263842Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.273152Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.273251Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.282434Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.282538Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 4",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.291728Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.291825Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.301479Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.301581Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.311001Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.311106Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.320915Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.321020Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.330947Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.331040Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.341936Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.342040Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.352065Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.352166Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.360925Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.361038Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.369971Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.370068Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.379776Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.379879Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.389822Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.389926Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.400787Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.400891Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 1",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.409996Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.410082Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.419449Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.419553Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 2",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.428960Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.429068Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.438038Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.438125Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.448128Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.448227Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.458112Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.458213Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 3",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.467281Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.467385Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.476499Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.476584Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 5",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.486049Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.486150Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "Anonymous player is rolling the dice: 6",
+    "severity_number": "<SeverityNumber.WARN: 13>",
+    "severity_text": "WARNING",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.495600Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
+{
+    "body": "127.0.0.1 - - [06/Dec/2023 13:31:19] \"GET /rolldice HTTP/1.1\" 200 -",
+    "severity_number": "<SeverityNumber.INFO: 9>",
+    "severity_text": "INFO",
+    "attributes": {
+        "otelSpanID": "0",
+        "otelTraceID": "0",
+        "otelTraceSampled": false,
+        "otelServiceName": "dice-server"
+    },
+    "dropped_attributes": 0,
+    "timestamp": "2023-12-06T18:31:19.495701Z",
+    "trace_id": "0x00000000000000000000000000000000",
+    "span_id": "0x0000000000000000",
+    "trace_flags": 0,
+    "resource": "BoundedAttributes({'telemetry.sdk.language': 'python', 'telemetry.sdk.name': 'opentelemetry', 'telemetry.sdk.version': '1.21.0', 'service.name': 'dice-server', 'telemetry.auto.version': '0.42b0'}, maxlen=None)"
+}
