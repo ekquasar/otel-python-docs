@@ -1,6 +1,7 @@
 # Python3 Flask Instrumentation
 In this doc I identify the following issues with the [OTel Python getting started docs](https://opentelemetry.io/docs/instrumentation/python/getting-started/):
 - 🔔 auto-instrumentation is broken on main:latest, even for `flask<3`
+- 🔔 the additional ghost requirement `werkzeug<3` fixes the issue - _but it is missing from the docs_.
 
 After the supporting analysis of [the logs](./demo.log), there is a proposal for working getting started instructions.
 
@@ -110,7 +111,7 @@ The versions in the docs are not latest, which will be installed by following `p
 #### 💢 Docs claim (2): http attributes will be populated
 
 ##### When tested on latest
-The speified cattributes are missing entirely.
+The specified attributes are missing entirely.
 
 ##### Documentation excerpt
 The docs in the same section as (1) above also claim:
@@ -169,7 +170,7 @@ The docs claim we'll see this output, under the second _View example output_ dro
 - Auto-instrumentation is broken, even for `flask<3`.
 
 # Proposed getting started instructions
-With a Python3 > 3.6 installation, in Fish:jh
+With a Python3 > 3.6 installation, in Fish:
 ```sh
 python3 -m venv venv
 source venv/bin/activate.fish
@@ -180,7 +181,7 @@ pip install opentelemetry-instrumentation-flask
 ```
 ^ run pip installs verbosely like this because pip does not use argument order.
 
-Doing so yields:
+Doing so yields `pip freeze`:
 ```
 Flask==2.3.3
 Werkzeug==2.3.8
